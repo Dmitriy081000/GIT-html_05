@@ -67,5 +67,16 @@ a::after{
     content: '★' ;
 }
 
+/*10*/
+.box{
+    display: flex;
+}
+
+/*10*/
+.bern{
+    padding: 2;
+    margin: 0 auto;
+}
+
 
 
